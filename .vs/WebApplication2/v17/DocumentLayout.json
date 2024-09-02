@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:views\\home\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\migrations\\20240831054126_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:migrations\\20240831054126_migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|c:\\users\\saswat behera\\source\\repos\\webapplication2\\migrations\\20240831064311_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D25A1A-807A-48DD-B8ED-0795EE9B4B9B}|WebApplication2.csproj|solutionrelative:migrations\\20240831064311_migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Views\\Home\\Update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Update.cshtml",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Views\\Home\\Update.cshtml",
+              "RelativeToolTip": "Views\\Home\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T07:39:31.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T07:38:21.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240831064311_Migration2.cs",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Migrations\\20240831064311_Migration2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240831064311_Migration2.cs",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Migrations\\20240831064311_Migration2.cs",
+              "RelativeToolTip": "Migrations\\20240831064311_Migration2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:43:12.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T06:01:06.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240831054126_Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Migrations\\20240831054126_Migration1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240831054126_Migration1.cs",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Migrations\\20240831054126_Migration1.cs",
+              "RelativeToolTip": "Migrations\\20240831054126_Migration1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:41:27.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:32:30.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T06:05:01.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2.csproj",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T04:59:59.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T02:29:21.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolContext.cs",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:56:59.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:26:47.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\SASWAT BEHERA\\source\\repos\\WebApplication2\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:30:38.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
